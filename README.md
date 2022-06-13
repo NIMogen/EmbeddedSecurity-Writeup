@@ -1,2 +1,1 @@
-# Writeups
-CTF writeups and notes
+Just a place to backup/store my notes!
