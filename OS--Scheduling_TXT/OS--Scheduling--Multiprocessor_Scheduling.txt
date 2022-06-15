@@ -1,0 +1,15 @@
+### Multiprocessor Scheduling
+
+Cache Coherence: The problem of maintaining the proper values of caches for jobs across multiple processors.
+
+Bus snooping: Memory monitoring technique, where a cache pays attention to memory updates through the observation
+ 					  of the bus that connects them to main memory. If a change is detected, it will invalidate its copy of data, or update it.
+ 
+Cache Affinity: When a CPU is running a process, it can build up quite a bit of state for that process. Switching CPUs can result in ineffiencies
+  						due to the need to rebuilt that state. A multiprocessor scheduler should therefore consider cache affinity of processes when scheduling.
+  
+ Single Queue Multiprocessor Scheduling
+ - Reuses the idea of putting jobs into a queue from single-processor scheduling
+ 
+ 
+
