@@ -1,5 +1,5 @@
 
-The following is a walkthrough series on the [Microcorruption Embedded Security CTF](https://microcorruption.com/login), which has you debugging an embedded system running on the msp430 architecture. For these labs I used the manual provided for the fictional lock which we are debugging, as well as the MSP430x2xx family users guide. This is still a work in progress; I made the mistake of switching to primarilly physical notes partway through these labs, so I'm still gathering and organizing them as I find the time. I also need to review some of the later labs in order to better understand them.
+The following is a walkthrough series on the [Microcorruption Embedded Security CTF](https://microcorruption.com/login), which has you debugging an embedded system running on the msp430 architecture. For these labs I used the manual provided for the fictional lock which we are debugging, as well as the MSP430x2xx family users guide. This is still a work in progress; I made the mistake of switching to primarily physical notes partway through these labs, so I'm still gathering and organizing them as I find the time. I also need to re-complete some of the later labs in order to better understand them.
 
 ### Tutorial and Level 1 (New Orleans)
 
